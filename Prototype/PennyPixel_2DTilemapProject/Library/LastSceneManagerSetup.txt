@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/TilemapDemoComplete.unity
+- path: Assets/Scenes/TilemapStart.unity
   isLoaded: 1
   isActive: 1
